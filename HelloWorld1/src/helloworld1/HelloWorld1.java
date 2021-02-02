@@ -17,6 +17,8 @@ public class HelloWorld1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello World");
+        //this is a second print statement
+        System.out.println("Hello World 2");
     }
     
 }
